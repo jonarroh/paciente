@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\urieh\\source\\repos\\Nutricionista\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F631879-702F-4D8D-879E-2D2903D4C2C4}|Nutricionista.csproj|c:\\users\\urieh\\source\\repos\\nutricionista\\models\\pacienteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F631879-702F-4D8D-879E-2D2903D4C2C4}|Nutricionista.csproj|solutionrelative:models\\pacienteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F631879-702F-4D8D-879E-2D2903D4C2C4}|Nutricionista.csproj|c:\\users\\urieh\\source\\repos\\nutricionista\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F631879-702F-4D8D-879E-2D2903D4C2C4}|Nutricionista.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\urieh\\source\\repos\\Nutricionista\\Migrations\\20240605033201_cambios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240605033201_cambios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F631879-702F-4D8D-879E-2D2903D4C2C4}|Nutricionista.csproj|c:\\users\\urieh\\source\\repos\\nutricionista\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F631879-702F-4D8D-879E-2D2903D4C2C4}|Nutricionista.csproj|solutionrelative:controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F631879-702F-4D8D-879E-2D2903D4C2C4}|Nutricionista.csproj|c:\\users\\urieh\\source\\repos\\nutricionista\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F631879-702F-4D8D-879E-2D2903D4C2C4}|Nutricionista.csproj|solutionrelative:models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F631879-702F-4D8D-879E-2D2903D4C2C4}|Nutricionista.csproj|c:\\users\\urieh\\source\\repos\\nutricionista\\views\\pacientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F631879-702F-4D8D-879E-2D2903D4C2C4}|Nutricionista.csproj|solutionrelative:views\\pacientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F631879-702F-4D8D-879E-2D2903D4C2C4}|Nutricionista.csproj|c:\\users\\urieh\\source\\repos\\nutricionista\\views\\pacientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F631879-702F-4D8D-879E-2D2903D4C2C4}|Nutricionista.csproj|solutionrelative:views\\pacientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F631879-702F-4D8D-879E-2D2903D4C2C4}|Nutricionista.csproj|c:\\users\\urieh\\source\\repos\\nutricionista\\views\\pacientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F631879-702F-4D8D-879E-2D2903D4C2C4}|Nutricionista.csproj|solutionrelative:views\\pacientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F631879-702F-4D8D-879E-2D2903D4C2C4}|Nutricionista.csproj|c:\\users\\urieh\\source\\repos\\nutricionista\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F631879-702F-4D8D-879E-2D2903D4C2C4}|Nutricionista.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F631879-702F-4D8D-879E-2D2903D4C2C4}|Nutricionista.csproj|c:\\users\\urieh\\source\\repos\\nutricionista\\nutricionista.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5F631879-702F-4D8D-879E-2D2903D4C2C4}|Nutricionista.csproj|solutionrelative:nutricionista.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F631879-702F-4D8D-879E-2D2903D4C2C4}|Nutricionista.csproj|c:\\users\\urieh\\source\\repos\\nutricionista\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F631879-702F-4D8D-879E-2D2903D4C2C4}|Nutricionista.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F631879-702F-4D8D-879E-2D2903D4C2C4}|Nutricionista.csproj|c:\\users\\urieh\\source\\repos\\nutricionista\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F631879-702F-4D8D-879E-2D2903D4C2C4}|Nutricionista.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\urieh\\source\\repos\\Nutricionista\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\urieh\\source\\repos\\Nutricionista\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T03:33:52.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PacienteViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\urieh\\source\\repos\\Nutricionista\\Models\\PacienteViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\PacienteViewModel.cs",
+              "ToolTip": "C:\\Users\\urieh\\source\\repos\\Nutricionista\\Models\\PacienteViewModel.cs",
+              "RelativeToolTip": "Models\\PacienteViewModel.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAuwB0AAACYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T00:17:15.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240605033201_cambios.cs",
+              "DocumentMoniker": "C:\\Users\\urieh\\source\\repos\\Nutricionista\\Migrations\\20240605033201_cambios.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240605033201_cambios.cs",
+              "ToolTip": "C:\\Users\\urieh\\source\\repos\\Nutricionista\\Migrations\\20240605033201_cambios.cs",
+              "RelativeToolTip": "Migrations\\20240605033201_cambios.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T03:32:01.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PacientesController.cs",
+              "DocumentMoniker": "C:\\Users\\urieh\\source\\repos\\Nutricionista\\Controllers\\PacientesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PacientesController.cs",
+              "ToolTip": "C:\\Users\\urieh\\source\\repos\\Nutricionista\\Controllers\\PacientesController.cs",
+              "RelativeToolTip": "Controllers\\PacientesController.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAiwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T00:09:24.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\urieh\\source\\repos\\Nutricionista\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\urieh\\source\\repos\\Nutricionista\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T00:14:51.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\urieh\\source\\repos\\Nutricionista\\Views\\Pacientes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pacientes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\urieh\\source\\repos\\Nutricionista\\Views\\Pacientes\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Pacientes\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T00:15:56.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\urieh\\source\\repos\\Nutricionista\\Models\\Paciente.cs",
+              "RelativeDocumentMoniker": "Models\\Paciente.cs",
+              "ToolTip": "C:\\Users\\urieh\\source\\repos\\Nutricionista\\Models\\Paciente.cs",
+              "RelativeToolTip": "Models\\Paciente.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T00:04:36.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\urieh\\source\\repos\\Nutricionista\\Views\\Pacientes\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pacientes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\urieh\\source\\repos\\Nutricionista\\Views\\Pacientes\\Details.cshtml",
+              "RelativeToolTip": "Views\\Pacientes\\Details.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAEMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T00:37:13.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\urieh\\source\\repos\\Nutricionista\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\urieh\\source\\repos\\Nutricionista\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T00:11:50.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Nutricionista.csproj",
+              "DocumentMoniker": "C:\\Users\\urieh\\source\\repos\\Nutricionista\\Nutricionista.csproj",
+              "RelativeDocumentMoniker": "Nutricionista.csproj",
+              "ToolTip": "C:\\Users\\urieh\\source\\repos\\Nutricionista\\Nutricionista.csproj",
+              "RelativeToolTip": "Nutricionista.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-30T00:09:49.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\urieh\\source\\repos\\Nutricionista\\Views\\Pacientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pacientes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\urieh\\source\\repos\\Nutricionista\\Views\\Pacientes\\Index.cshtml",
+              "RelativeToolTip": "Views\\Pacientes\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAmwBsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T00:15:58.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\urieh\\source\\repos\\Nutricionista\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\urieh\\source\\repos\\Nutricionista\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T00:11:45.061Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
